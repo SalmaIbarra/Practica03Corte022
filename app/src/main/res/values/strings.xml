@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Practica03Corte02</string>
+
+
+    <string name="itemEstefano">MORUA ZAMUDIO ESTEFANO</string>
+    <string name="itemCarlosAlberto">CARRANZA JAUREGUI CARLOS ALBERTO</string>
+    <string name="itemMarcoAntonio">CASTRO LOPEZ MARCO ANTONIO ALARID</string>
+    <string name="itemJoshuaDaniel">DURAN VALDEZ JOSHUA DANIEL</string>
+    <string name="itemErnestoDavid">GALINDO HERNANDEZ ERNESTO DAVID</string>
+    <string name="itemMaximiliano">CONTRERAS CEPEDA MAXIMILIANO</string>
+    <string name="itemIvanEnrique">GOMEZ RUELAS IVÁN ENRIQUE</string>
+    <string name="itemJesusEduardo">CRUZ QUINTERO JESUS EDUARDO</string>
+    <string name="itemDavidAntonio">VELARDE OVALLE DAVID ANTONIO</string>
+    <string name="itemGustavoAdolfo">LAMAS ARMENTA GUSTAVO ADOLFO</string>
+    <string name="itemJuanCarlos">RIVAS LUGO JUAN CARLOS</string>
+    <string name="itemAlejo">SALAS MENDOZA ALEJO</string>
+    <string name="itemCarlosJair">SERRANO TORRES CARLOS JAIR</string>
+    <string name="itemJesusTadeo">TIRADO ROMERO JESUS TADEO</string>
+    <string name="itemJair">CARRILLO GARCIA JAIR</string>
+    <string name="itemDiego">ARIAS ZATARAIN DIEGO</string>
+    <string name="itemPaolaEmiret">VALDEZ MARTINEZ PAOLA EMIRET</string>
+    <string name="itemSalmaYareth">IBARRA FLORES SALMA YARETH</string>
+    <string name="itemJuanAntonio">LIZARRAGA MALDONADO JUAN ANTONIO</string>
+    <string name="itemAngelZinedineAnastacio">VIERA ROMERO ANGEL ZINEDINE ANASTACIO</string>
+    <string name="itemBlasAlberto">TEJEDA PEINADO BLAS ALBERTO</string>
+    <string name="itemAngelRonaldoAnastacio">VIERA ROMERO ANGEL RONALDO ANASTACIO</string>
+    <string name="itemXiomaraYamileth">ELIZALDE VARGAS XIOMARA YAMILETH</string>
+    <string name="itemJesusAntonio">SALCIDO SARABIA JESUS ANTONIO</string>
+    <string name="itemYenniferCarolina">RODRIGUEZ SANCHEZ YENNIFER CAROLINA</string>
+    <string name="itemManuelAlexis">FLORES PRADO MANUEL ALEXIS</string>
+    <string name="itemVictorMoises">AGUIRRE TOSTADO VICTOR MOISES</string>
+    <string name="itemHalachUinic">DOMINGUEZ SARABIA HALACH UINIC</string>
+    <string name="itemEnzoAlejandro">MACIEL NUÑEZ ENZO ALEJANDRO</string>
+    <string name="itemJoseAlberto">BARRON VARGAS JOSE ALBERTO</string>
+    <string name="itemGiancarlo">MARTIN IBARRA GIANCARLO</string>
+    <string name="itemLuisAngel">SANCHEZ OCEGUEDA LUIS ANGEL</string>
+
+
+    <string name="msgEstefano">2019030344</string>
+    <string name="msgCarlosAlberto">2020030174</string>
+    <string name="msgMarcoAntonioAlarid">2020030176</string>
+    <string name="msgJoshuaDaniel">2020030181</string>
+    <string name="msgErnestoDavid">2020030184</string>
+    <string name="msgMaximiliano">2020030189</string>
+    <string name="msgIvanEnrique">2020030199</string>
+    <string name="msgJesusEduardo">2020030212</string>
+    <string name="msgDavidAntonio">2020030241</string>
+    <string name="msgGustavoAdolfo">2020030243</string>
+    <string name="msgJuanCarlos">2020030249</string>
+    <string name="msgAlejo">2020030264</string>
+    <string name="msgCarlosJair">2020030268</string>
+    <string name="msgJesusTadeo">2020030292</string>
+    <string name="msgJair">2020030304</string>
+    <string name="msgDiego">2020030306</string>
+    <string name="msgPaolaEmiret">2020030313</string>
+    <string name="msgSalmaYareth">2020030315</string>
+    <string name="msgJuanAntonio">2020030322</string>
+    <string name="msgAngelZinedineAnastacio">2020030325</string>
+    <string name="msgBlasAlberto">2020030327</string>
+    <string name="msgAngelRonaldoAnastacio">2020030329</string>
+    <string name="msgXiomaraYamileth">2020030332</string>
+    <string name="msgJesusAntonio">2020030333</string>
+    <string name="msgYenniferCarolina">2020030389</string>
+    <string name="msgManuelAlexis">2020030766</string>
+    <string name="msgVictorMoises">2020030771</string>
+    <string name="msgHalachUinic">2020030777</string>
+    <string name="msgEnzoAlejandro">2020030799</string>
+    <string name="msgJoseAlberto">2020030808</string>
+    <string name="msgGiancarlo">2020030819</string>
+    <string name="msgLuisAngel">2020030865</string>
+
+
+
+
+
+
+</resources>
